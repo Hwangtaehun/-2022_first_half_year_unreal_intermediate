@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\r283\\desktop\\github\\-2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\personalproject\\personalproject.init.gen.cpp",
+        "Source": "c:\\users\\r283\\desktop\\github\\2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\unrealeditor\\inc\\personalproject\\personalproject.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\r283\\desktop\\github\\-2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\personalprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\r283\\desktop\\github\\2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\personalprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\r283\\desktop\\github\\-2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\unrealeditor\\development\\personalproject\\definitions.personalproject.h"
+            "c:\\users\\r283\\desktop\\github\\2022_first_half_year_unreal_intermediate\\personalproject\\intermediate\\build\\win64\\unrealeditor\\development\\personalproject\\definitions.personalproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
