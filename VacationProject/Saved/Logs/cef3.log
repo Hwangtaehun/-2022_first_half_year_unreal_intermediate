@@ -19,31 +19,3 @@
 [0715/200807.524:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0716/163726.307:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0716/171839.935:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0716/191821.360:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0716/191821.361:ERROR:entry_impl.cc(1076)] No file for c10311d6
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:ERROR:entry_impl.cc(1076)] No file for c10311e0
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:ERROR:entry_impl.cc(1076)] No file for c1031192
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:ERROR:entry_impl.cc(1076)] No file for c10311e2
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:ERROR:entry_impl.cc(1076)] No file for c10311e4
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191821.361:WARNING:storage_block-inl.h(146)] Failed data load.
-[0716/191824.140:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
