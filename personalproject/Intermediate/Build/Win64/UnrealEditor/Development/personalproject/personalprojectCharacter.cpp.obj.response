@@ -1,7 +1,7 @@
-C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Source\personalproject\personalprojectCharacter.cpp
+C:\Users\r283\Desktop\Github\personalproject\Source\personalproject\personalprojectCharacter.cpp
 /I .
-/I C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\UnrealEditor\Inc\personalproject
-/I C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Source
+/I C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\UnrealEditor\Inc\personalproject
+/I C:\Users\r283\Desktop\Github\personalproject\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -277,12 +277,12 @@ C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalpr
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\Definitions.personalproject.h"
-/Yu"C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\personalprojectCharacter.cpp.obj"
-/sourceDependencies C:\Users\r283\Desktop\Github\2022_first_half_year_unreal_intermediate\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\personalprojectCharacter.cpp.json
+/FI"C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\Definitions.personalproject.h"
+/Yu"C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\personalprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\personalprojectCharacter.cpp.obj"
+/sourceDependencies C:\Users\r283\Desktop\Github\personalproject\Intermediate\Build\Win64\UnrealEditor\Development\personalproject\personalprojectCharacter.cpp.json
 /Zc:inline
 /nologo
 /Oi
