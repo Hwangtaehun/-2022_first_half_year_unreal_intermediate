@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VacationProject/Content/CityPark/Maps/Showcase.umap
+VacationProject/Content/CityPark/Maps/Showcase_NotOptimized.umap
